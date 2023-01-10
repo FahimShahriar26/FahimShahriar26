@@ -1,9 +1,9 @@
-https://scontent.fdac1-1.fna.fbcdn.net/v/t39.30808-1/278906928_1346834755796093_2372814837154226396_n.jpg?stp=dst-jpg_p160x160&_nc_cat=107&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeHwbmwDv2aoXtPDhaXb5J1STPs_DRLRh9pM-z8NEtGH2ix-qGMsZ2pcvAY7kuMzyhQk-vYmDjcR08NQ9G9UoOeV&_nc_ohc=ouvXzO1yQCIAX-9tnGT&_nc_ht=scontent.fdac1-1.fna&oh=00_AfB_MHvfXJDWFaZRFe8rW5eQ7f2Fivc6TTf7iaAdnHQLPg&oe=63C2A493)
-
+![I am a student of Bangladesh University of Business and Technology](https://scontent.fdac1-1.fna.fbcdn.net/v/t39.30808-1/278906928_1346834755796093_2372814837154226396_n.jpg?stp=dst-jpg_p160x160&_nc_cat=107&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeHwbmwDv2aoXtPDhaXb5J1STPs_DRLRh9pM-z8NEtGH2ix-qGMsZ2pcvAY7kuMzyhQk-vYmDjcR08NQ9G9UoOeV&_nc_ohc=ouvXzO1yQCIAX-9tnGT&_nc_ht=scontent.fdac1-1.fna&oh=00_AfB_MHvfXJDWFaZRFe8rW5eQ7f2Fivc6TTf7iaAdnHQLPg&oe=63C2A493)
 
 ### Hi there 👋, My name is Fahim Shahriar
 #### I am a student of Bangladesh University of Business and Technology
-![I am a student of Bangladesh University of Business and Technology]
+
+
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: C / C++ / HTML
